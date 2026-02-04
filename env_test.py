@@ -1,4 +1,4 @@
-import gym
+import gymnasium as gym
 import simulation.gym
 from simulation.gym.environment import DynamicSCFabSimulationEnvironment
 

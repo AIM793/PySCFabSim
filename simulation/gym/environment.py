@@ -2,8 +2,8 @@ import statistics
 from collections import defaultdict
 from typing import List
 
-import gym
-from gym import Env
+import gymnasium as gym
+from gymnasium import Env
 
 from simulation.classes import Machine, Lot
 from simulation.file_instance import FileInstance
